@@ -2,7 +2,7 @@
 /**
  * @wordpress-plugin
  * Plugin Name:       My Sites Sort and Filter
- * Plugin URI:        https://github.com/cloudverve/my-sites-sort-filter/
+ * Plugin URI:        https://wordpress.org/plugins/my-sites-sort-filter/
  * Description:       Sorts multisite dropdown site list alphabetically and adds a filter box.
  * Version:           1.0.0
  * Author:            Daniel M. Hendricks

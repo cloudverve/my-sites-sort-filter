@@ -21,6 +21,10 @@ msgstr ""
 msgid "Filter Sites"
 msgstr ""
 
-#: ../app/Plugin.php:53
+#: ../app/Plugin.php:56
 msgid "This plugin requires WordPress multisite/network mode."
+msgstr ""
+
+#: ../app/Plugin.php:98
+msgid "Contributors"
 msgstr ""

@@ -18,6 +18,8 @@ This plugin was forked from code by [Kailey Lampert](https://github.com/trepmal/
 
 **Please** submit issues before giving a negative rating so I have the opportunity to fix them. Thank you.
 
+GitHub repo: [https://github.com/cloudverve/my-sites-sort-filter](https://github.com/cloudverve/my-sites-sort-filter)
+
 [youtube https://www.youtube.com/watch?v=bFwXUDvb3YA]
 
 **Requirements**
@@ -31,8 +33,6 @@ This plugin was forked from code by [Kailey Lampert](https://github.com/trepmal/
 * Sorts My Sites list alphabetically
 * Adds a filter-as-you-type search input to the My Sites dropdown
 * Supports multiple color schemes (including [Dark Mode](https://wordpress.org/plugins/dark-mode/))
-
-GitHub repo: [https://github.com/cloudverve/my-sites-sort-filter](https://github.com/cloudverve/my-sites-sort-filter)
 
 == Installation ==
 1. Simply download, install and activate.
