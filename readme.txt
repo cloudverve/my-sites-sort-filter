@@ -16,7 +16,9 @@ This plugin helps you find sub-sites in the My Sites dropdown on large WordPress
 
 This plugin was forked from code by [Kailey Lampert](https://github.com/trepmal/my-sites-search) and [Eric Juden](https://wordpress.org/plugins/reorder-my-sites/).
 
-[Animated Demo](https://rawcdn.githack.com/cloudverve/my-sites-sort-filter/master/assets/demo.gif)
+**Please** submit issues before giving a negative rating so I have the opportunity to fix them. Thank you.
+
+[youtube https://www.youtube.com/watch?v=bFwXUDvb3YA]
 
 **Requirements**
 
