@@ -16,6 +16,8 @@ This plugin helps you find sub-sites in the My Sites dropdown on large WordPress
 
 This plugin was forked from code by [Kailey Lampert](https://github.com/trepmal/my-sites-search) and [Eric Juden](https://wordpress.org/plugins/reorder-my-sites/).
 
+[Animated Demo](https://rawcdn.githack.com/cloudverve/my-sites-sort-filter/master/assets/demo.gif)
+
 **Requirements**
 
 * WordPress 4.8 or higher
@@ -30,8 +32,6 @@ This plugin was forked from code by [Kailey Lampert](https://github.com/trepmal/
 
 GitHub repo: [https://github.com/cloudverve/my-sites-sort-filter](https://github.com/cloudverve/my-sites-sort-filter)
 
-<img src="http://g.recordit.co/5ePi22skwG.gif" alt="Demonstration" />
-
 == Installation ==
 1. Install, activate, done.
 
@@ -40,14 +40,17 @@ Once activated, it automatically sorts sites and adds a filter search input (whe
 == Frequently Asked Questions ==
 **Can I change the number of sites that triggers the filter search input to appear?**
 
-Yes, you can define the following constant in wp-config.php: `define( \'MSSF_MINIMUM_SITES\', 5 );` (replacing 5 with the number of your choice. I made it a PHP constant because I didn\'t think it was worth creating an entire settings page for.
+Simply download, install and activate. Once activated, it automatically sorts sites and adds a filter search input. No configuration needed. To change this, you can define the following constant in wp-config.php: <code>define( 'MSSF_MINIMUM_SITES', 5 );</code> (replacing 5 with the number of your choice).
 
 == Screenshots ==
-1. Sorted Site List with Filter Input
+1. Sorted My Site List with Filter Input
+2. Filter-as-you-type Example
+3. Ectoplasm Theme
+4. Example with Dark Mode
 
 == Changelog ==
-**2019/09/15**
 
+= 1.0.0 =
 * Initial release
 
 == Upgrade Notice ==

@@ -41,4 +41,4 @@ By default, the filter search field appears when there are greater than 10 sites
 
 ## Screenshot
 
-![Demonstration](https://rawcdn.githack.com/cloudverve/my-sites-sort-filter/master/assets/screenshot-1.gif "Demonstration")
+![Demonstration](https://rawcdn.githack.com/cloudverve/my-sites-sort-filter/master/assets/demo.gif "Demonstration")

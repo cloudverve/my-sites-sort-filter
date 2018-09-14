@@ -4,8 +4,12 @@
  * Plugin Name:       My Sites Sort and Filter
  * Plugin URI:        https://github.com/cloudverve/my-sites-sort-filter/
  * Description:       Sorts multisite dropdown site list alphabetically and adds a filter box.
- * Version:           0.9.0
+ * Version:           1.0.0
  * Author:            Daniel M. Hendricks
+ * Requires at least: 4.8
+ * Requires PHP:      5.6
+ * Tested up to:      4.9.8
+ * Stable tag:        1.0.0
  * Author URI:        https://www.danhendricks.com/
  * Text Domain:       my-sites-sort-filter
  * Domain Path:       languages
