@@ -1,0 +1,18 @@
+{
+  "name": "my-sites-sort-filter",
+  "version": "1.0.0",
+  "author": "Daniel M. Hendricks",
+  "license": "GPL-2.0-or-later",
+  "scripts": {
+    "translate": "wp-pot -s './app/**/*.php' -o ./languages/$npm_package_name.pot -p $npm_package_name",
+    "zip": "zip -q -r ../$npm_package_name-$npm_package_version.zip * -x 'node_modules/*' 'assets/*' '.git*' './src/*' './.*' './package*.*' './composer.*' './*.md' './*.log' './*.bak' './gulpfile.js' ",
+    "zip-dev": "zip -q -r ../$npm_package_name-$npm_package_version-dev.zip * -x 'node_modules/*' '.git*' './*.log' '.DS_Store' './*.bak' "
+  },
+  "devDependencies": {
+    "wp-pot-cli": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cloudverve/my-sites-sort-filter.git"
+  }
+}

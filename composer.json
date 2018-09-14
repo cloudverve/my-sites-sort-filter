@@ -1,0 +1,28 @@
+{
+  "name": "my-sites-sort-filter",
+  "type": "wordpress-plugin",
+  "description": "Sorts multisite dropdown site list alphabetically and adds a filter box.",
+  "keywords": [ "wordpress", "plugin", "multisite", "sites", "sort", "filter" ],
+  "homepage": "https://www.danhendricks.com/",
+  "license": "GPL-2.0-or-later",
+  "support": {
+    "issues": "https://github.com/cloudverve/my-sites-sort-filter/issues",
+    "wiki": "https://github.com/cloudverve/my-sites-sort-filter/wiki",
+    "source": "https://github.com/cloudverve/my-sites-sort-filter/"
+  },
+  "require": {
+    "php": ">=5.6",
+    "underdev/requirements": "^1.2.1",
+    "composer/installers": "^1.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "CloudVerve\\MySitesSortFilter\\": "app/"
+    }
+  },
+  "scripts": {
+    "pre-autoload-dump": [
+      "find ./vendor -name '.git*' -exec rm -rf {} +"
+    ]
+  }
+}
