@@ -10,7 +10,7 @@
 - [Description](#description)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation & Configuration](#installation-configuration)
+- [Installation & Configuration](#installation--configuration)
 - [Screenshot](#screenshot)
 
 ## Description
@@ -18,8 +18,6 @@
 This plugin helps you find sub-sites in the My Sites dropdown on large WordPress multisite installations. It sorts sites alphabetically and allows you to filter as you type.
 
 This plugin was forked from code by [Kailey Lampert](https://github.com/trepmal/my-sites-search) and [Eric Juden](https://wordpress.org/plugins/reorder-my-sites/).
-
-**Installable ZIP (beta): [my-sites-sort-filter.zip](https://f001.backblazeb2.com/file/hendricks/tmp/my-sites-sort-filter.zip)**
 
 ## Features
 
@@ -35,10 +33,12 @@ This plugin was forked from code by [Kailey Lampert](https://github.com/trepmal/
 
 ## Installation & Configuration
 
-Simply install and activate. Once activated, it automatically sorts sites and adds a filter search input. No configuration needed.
+**Installable ZIP (beta): [my-sites-sort-filter.zip](https://f001.backblazeb2.com/file/hendricks/tmp/my-sites-sort-filter.zip)**
+
+Simply download, install and activate. Once activated, it automatically sorts sites and adds a filter search input. No configuration needed.
 
 By default, the filter search field appears when there are greater than 10 sites in your My Sites list. To change this, you can define the following constant in wp-config.php: `define( 'MSSF_MINIMUM_SITES', 5 );` (replacing 5 with the number of your choice).
 
 ## Screenshot
 
-![Demonstration](http://g.recordit.co/5ePi22skwG.gif "Demonstration")
+![Demonstration](https://rawcdn.githack.com/cloudverve/my-sites-sort-filter/master/assets/screenshot-1.gif "Demonstration")
