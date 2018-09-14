@@ -12,7 +12,7 @@
  * Stable tag:        1.0.0
  * Author URI:        https://www.danhendricks.com/
  * Text Domain:       my-sites-sort-filter
- * Domain Path:       languages
+ * Domain Path:       /languages
  */
 
  /*	Copyright 2018	  Daniel M. Hendricks (https://www.danhendricks.com/)

@@ -23,7 +23,7 @@ This plugin was forked from code by [Kailey Lampert](https://github.com/trepmal/
 
 - Sorts My Sites list alphabetically
 - Adds a filter-as-you-type search input to the My Sites dropdown
-- Supports multiple color scheme (including [Dark Mode](https://wordpress.org/plugins/dark-mode/))
+- Supports multiple color schemes (including [Dark Mode](https://wordpress.org/plugins/dark-mode/))
 
 ## Requirements
 
@@ -32,8 +32,6 @@ This plugin was forked from code by [Kailey Lampert](https://github.com/trepmal/
 - WordPress Multisite
 
 ## Installation & Configuration
-
-**Installable ZIP (beta): [my-sites-sort-filter.zip](https://f001.backblazeb2.com/file/hendricks/tmp/my-sites-sort-filter.zip)**
 
 Simply download, install and activate. Once activated, it automatically sorts sites and adds a filter search input. No configuration needed.
 
