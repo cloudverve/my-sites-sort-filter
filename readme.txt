@@ -34,6 +34,10 @@ GitHub repo: [https://github.com/cloudverve/my-sites-sort-filter](https://github
 * Adds a filter-as-you-type search input to the My Sites dropdown
 * Supports multiple color schemes (including [Dark Mode](https://wordpress.org/plugins/dark-mode/))
 
+**GDPR Safe**
+
+This plugin _does not_ use or track _any user data_, either from visitors or users of WP Admin.
+
 == Installation ==
 1. Simply download, install and activate.
 
