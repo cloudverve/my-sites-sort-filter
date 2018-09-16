@@ -1,9 +1,9 @@
 [![Author](https://img.shields.io/badge/author-Daniel%20M.%20Hendricks-lightgrey.svg?colorB=9900cc )](https://www.danhendricks.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=cloudverve%2Fmy-sites-sort-filter)
-[![WordPress Release](https://img.shields.io/wordpress/plugin/v/my-sites-sort-filter.svg)](https://wordpress.org/plugins/my-sites-sort-filter/)
+[![WordPress Release](https://img.shields.io/wordpress/plugin/v/my-sites-sort-and-filter.svg)](https://wordpress.org/plugins/my-sites-sort-and-filter/)
 [![GitHub License](https://img.shields.io/badge/license-GPLv2-yellow.svg)](https://raw.githubusercontent.com/cloudverve/my-sites-sort-filter/master/LICENSE)
-[![WordPress Downloads](https://img.shields.io/wordpress/plugin/dt/my-sites-sort-and-filter.svg)](https://wordpress.org/plugins/my-sites-sort-and-filter/)
+[![WordPress Downloads](https://img.shields.io/wordpress/plugin/dt/my-sites-sort-and-filter.svg?colorB=brightgreen)](https://wordpress.org/plugins/my-sites-sort-and-filter/)
 [![WP Engine](https://img.shields.io/badge/WP%20Engine-Compatible-orange.svg)](http://bit.ly/WPEnginePlans)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/cloudverve/my-sites-sort-filter.svg?style=social)](https://twitter.com/danielhendricks)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/cloudverve/my-sites-sort-and-filter.svg?style=social)](https://twitter.com/danielhendricks)
 
 # WordPress My Sites Sort and Filter Plugin
 
