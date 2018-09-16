@@ -38,7 +38,7 @@ GitHub repo: [https://github.com/cloudverve/my-sites-sort-filter](https://github
 
 This plugin _does not_ use or track _any user data_, either from visitors or users of WP Admin.
 
-<img src="https://ga-beacon.appspot.com/UA-67333102-2/wordpress-org/my-sites-sort-and-filter" alt="Google Analytics" />
+<img src="https://ga-beacon.appspot.com/UA-67333102-2/wordpress-org/my-sites-sort-and-filter?pixel" alt="Google Analytics" />
 
 == Installation ==
 1. Simply download, install and activate.
@@ -48,7 +48,9 @@ Once activated, it automatically sorts sites and adds a filter search input. No 
 == Frequently Asked Questions ==
 **Can I change the number of sites that triggers the filter search input to appear?**
 
-By default, the filter search field appears when there are greater than 10 sites in your My Sites list. To change this, you can define the following constant in wp-config.php: <code>define( 'MSSF_MINIMUM_SITES', 5 );</code> (replacing 5 with the number of your choice).
+By default, the filter search field appears when there are greater than 10 sites in your My Sites list. To change this, you can define the following constant in wp-config.php (replace 5 with the number of your choice):
+
+<code>define( 'MSSF_MINIMUM_SITES', 5 );</code>
 
 == Screenshots ==
 1. Sorted My Site List with Filter Input
