@@ -38,6 +38,8 @@ GitHub repo: [https://github.com/cloudverve/my-sites-sort-filter](https://github
 
 This plugin _does not_ use or track _any user data_, either from visitors or users of WP Admin.
 
+<img src="https://ga-beacon.appspot.com/UA-67333102-2/wordpress-org/my-sites-sort-and-filter" alt="Google Analytics" />
+
 == Installation ==
 1. Simply download, install and activate.
 
