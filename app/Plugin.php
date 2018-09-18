@@ -46,7 +46,7 @@ class Plugin {
     */
   public function activate() {
 
-    $requirements = new \underDEV_Requirements( self::$config['Name'], [
+    $requirements = new \underDEV_Requirements( __( 'My Sites Sort and Filter', self::$config['TextDomain'] ), [
       'php'       => '5.6',
       'wp'        => '4.8',
       'multisite' => true
@@ -75,11 +75,14 @@ class Plugin {
       'plugin_file' => $plugin_identifier[1],
       'plugin_path' => $abspath,
       'prefix' => 'mssf',
-      'textdomain' => 'my-sites-sort-filter',
       'minumum_sites' => 10
     ];
 
     $plugin_data = array_merge( $plugin_data, get_plugin_data( $abspath . DIRECTORY_SEPARATOR . $plugin_data['plugin_file'], false ) );
+
+    $plugin_data['translated_strings'] = [
+      __( 'Sorts multisite dropdown site list alphabetically and adds a filter box.', $plugin_data['TextDomain'] )
+    ];
 
     return $plugin_data;
 

@@ -29,10 +29,21 @@ msgstr "Buscar Mis Sitios"
 msgid "Filter Sites"
 msgstr "Filtrar Sitios"
 
+#: ../app/Plugin.php:49
+msgid "My Sites Sort and Filter"
+msgstr "Mis Sitios Ordenar y Filtrar"
+
 #: ../app/Plugin.php:56
 msgid "This plugin requires WordPress multisite/network mode."
 msgstr "Este complemento requiere el modo multisitio/red de WordPress."
 
-#: ../app/Plugin.php:98
+#: ../app/Plugin.php:84
+msgid ""
+"Sorts multisite dropdown site list alphabetically and adds a filter box."
+msgstr ""
+"Ordena la lista desplegable de multisitio de Mis Sitios alfabéticamente "
+"y añade un cuadro de filtro."
+
+#: ../app/Plugin.php:101
 msgid "Contributors"
 msgstr "Colaboradores"

@@ -13,10 +13,6 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: Plugin Description
-msgid "Sorts multisite dropdown site list alphabetically and adds a filter box."
-msgstr ""
-
 #: ../app/Filter_Sites.php:39
 msgid "Search My Sites"
 msgstr ""
@@ -25,14 +21,18 @@ msgstr ""
 msgid "Filter Sites"
 msgstr ""
 
+#: ../app/Plugin.php:49
+msgid "My Sites Sort and Filter"
+msgstr ""
+
 #: ../app/Plugin.php:56
 msgid "This plugin requires WordPress multisite/network mode."
 msgstr ""
 
-#: ../app/Plugin.php:98
-msgid "Contributors"
+#: ../app/Plugin.php:84
+msgid "Sorts multisite dropdown site list alphabetically and adds a filter box."
 msgstr ""
 
-#: ../my-sites-sort-filter.php:4
-msgid "My Sites Sort and Filter"
+#: ../app/Plugin.php:101
+msgid "Contributors"
 msgstr ""
