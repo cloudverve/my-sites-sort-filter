@@ -2,10 +2,10 @@
 Contributors: hendridm, trepmal, ericjuden
 Tags: multisite, reorder, sort, filter, search, network
 Donate link: https://paypal.me/danielhendricks
-Requires at least: 4.8
+Requires at least: 4.7
 Tested up to: 4.9.8
-Requires PHP: 5.6
-Stable tag: 1.0.0
+Requires PHP: 5.4
+Stable tag: 1.1.0
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,8 +24,8 @@ GitHub repo: [https://github.com/cloudverve/my-sites-sort-filter](https://github
 
 **Requirements**
 
-* WordPress 4.8 or higher
-* PHP 5.6 or higher
+* WordPress 4.7 or higher
+* PHP 5.4 or higher
 * WordPress Multisite
 
 **Features**
@@ -37,8 +37,6 @@ GitHub repo: [https://github.com/cloudverve/my-sites-sort-filter](https://github
 **GDPR Safe**
 
 This plugin _does not_ use or track _any user data_, either from visitors or users of WP Admin.
-
-<img src="https://ga-beacon.appspot.com/UA-67333102-2/wordpress-org/my-sites-sort-and-filter?pixel" alt="Google Analytics" />
 
 == Installation ==
 1. Simply download, install and activate.
@@ -59,6 +57,11 @@ By default, the filter search field appears when there are greater than 10 sites
 4. Example with Dark Mode
 
 == Changelog ==
+
+= 1.1.0 =
+* Added Russian translations
+* Added missing string translations for other languages
+* Reduced minimum requirements to PHP 5.4 and WordPress 4.7
 
 = 1.0.0 =
 * Initial release

@@ -27,8 +27,8 @@ This plugin was forked from code by [Kailey Lampert](https://github.com/trepmal/
 
 ## Requirements
 
-- WordPress 4.8 or higher
-- PHP 5.6 or higher
+- WordPress 4.7 or higher
+- PHP 5.4 or higher
 - WordPress Multisite
 
 ## Installation & Configuration

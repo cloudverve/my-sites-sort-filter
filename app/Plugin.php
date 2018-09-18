@@ -47,13 +47,13 @@ class Plugin {
   public function activate() {
 
     $requirements = new \underDEV_Requirements( __( 'My Sites Sort and Filter', self::$config['TextDomain'] ), [
-      'php'       => '5.6',
-      'wp'        => '4.8',
+      'php'       => '5.4',
+      'wp'        => '4.7',
       'multisite' => true
     ]);
 
     $requirements->add_check( 'multisite', function( $val, $res ) {
-      if( is_multisite() != $val ) $res->add_error( __( 'This plugin requires WordPress multisite/network mode.', self::$config['TextDomain'] ) );
+      if( is_multisite() !== $val ) $res->add_error( __( 'This plugin requires WordPress multisite/network mode.', self::$config['TextDomain'] ) );
     });
 
     $check_result = $requirements->satisfied();
