@@ -13,6 +13,10 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: Plugin Description
+msgid "Sorts multisite dropdown site list alphabetically and adds a filter box."
+msgstr ""
+
 #: ../app/Filter_Sites.php:39
 msgid "Search My Sites"
 msgstr ""
@@ -27,4 +31,8 @@ msgstr ""
 
 #: ../app/Plugin.php:98
 msgid "Contributors"
+msgstr ""
+
+#: ../my-sites-sort-filter.php:4
+msgid "My Sites Sort and Filter"
 msgstr ""

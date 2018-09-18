@@ -1,0 +1,50 @@
+# Copyright (C) 2018 my-sites-sort-filter
+# This file is distributed under the same license as the my-sites-sort-filter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: my-sites-sort-filter\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Daniel M. Hendricks\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: Plugin Description
+msgid ""
+"Sorts multisite dropdown site list alphabetically and adds a filter box."
+msgstr ""
+"Сортирует раскрывающийся список «Мои сайты» в алфавитном порядке и "
+"добавляет фильтр."
+
+#: ../app/Filter_Sites.php:39
+msgid "Search My Sites"
+msgstr "Поиск в моих сайтах"
+
+#: ../app/Filter_Sites.php:39
+msgid "Filter Sites"
+msgstr "Фильтровать сайты"
+
+#: ../app/Plugin.php:56
+msgid "This plugin requires WordPress multisite/network mode."
+msgstr "Для этого плагина требуется режим мультисайт/сети WordPress."
+
+#: ../app/Plugin.php:98
+msgid "Contributors"
+msgstr "Авторы"
+
+#: ../my-sites-sort-filter.php:4
+msgid "My Sites Sort and Filter"
+msgstr "Сортировка и фильтрование моих сайтов"
