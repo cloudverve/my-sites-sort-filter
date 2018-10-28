@@ -3,9 +3,9 @@ Contributors: hendridm, trepmal, ericjuden
 Tags: multisite, reorder, sort, filter, search, network
 Donate link: https://paypal.me/danielhendricks
 Requires at least: 4.7
-Tested up to: 4.9.8
+Tested up to: 5.0
 Requires PHP: 5.4
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,10 @@ By default, the filter search field appears when there are greater than 10 sites
 4. Example with Dark Mode
 
 == Changelog ==
+
+= 1.1.1 =
+* Updated dependencies
+* Bumped WordPress compatibility to 5.0
 
 = 1.1.0 =
 * Added Russian translations

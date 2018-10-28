@@ -4,12 +4,12 @@
  * Plugin Name:       My Sites Sort and Filter
  * Plugin URI:        https://wordpress.org/plugins/my-sites-sort-and-filter/
  * Description:       Sorts multisite dropdown site list alphabetically and adds a filter box.
- * Version:           1.1.0
+ * Version:           1.1.1
  * Author:            Daniel M. Hendricks
  * Requires at least: 4.7
  * Requires PHP:      5.4
- * Tested up to:      4.9.8
- * Stable tag:        1.1.0
+ * Tested up to:      5.0
+ * Stable tag:        1.1.1
  * Author URI:        https://www.danhendricks.com/
  * License:           GPLv2 or later
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
